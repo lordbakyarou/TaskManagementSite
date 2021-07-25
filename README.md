@@ -1,1 +1,2 @@
 # TaskManagementSite
+A system where admins can give there employees task to do . Admin can assign task to registered employee and the employee can see that task on their phone or on website and they can update if the task is done or not. The vision around this project was to create a enviorment where the employee can take survey about people health and record if they have and prior health issues so they are more vurnable to the covid-19 virus 
